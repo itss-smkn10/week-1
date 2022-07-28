@@ -1,0 +1,15 @@
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\bin\Debug\net6.0\ProjectApp.exe
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\bin\Debug\net6.0\ProjectApp.deps.json
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\bin\Debug\net6.0\ProjectApp.runtimeconfig.json
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\bin\Debug\net6.0\ProjectApp.dll
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\bin\Debug\net6.0\ProjectApp.pdb
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\obj\Debug\net6.0\ProjectApp.csproj.AssemblyReference.cache
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\obj\Debug\net6.0\ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\obj\Debug\net6.0\ProjectApp.AssemblyInfoInputs.cache
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\obj\Debug\net6.0\ProjectApp.AssemblyInfo.cs
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\obj\Debug\net6.0\ProjectApp.csproj.CoreCompileInputs.cache
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\obj\Debug\net6.0\ProjectApp.dll
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\obj\Debug\net6.0\refint\ProjectApp.dll
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\obj\Debug\net6.0\ProjectApp.pdb
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\obj\Debug\net6.0\ProjectApp.genruntimeconfig.cache
+E:\LKS IT Software Solution for Business\Guest Teacher\ProjectApp\ProjectApp\obj\Debug\net6.0\ref\ProjectApp.dll
